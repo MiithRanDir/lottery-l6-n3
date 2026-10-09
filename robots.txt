@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lottery-l6-n3.vercel.app/sitemap.xml
